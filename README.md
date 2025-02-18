@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains the implementation and dataset for AI-driven simulations of contact and plasticity phenomena in solid mechanics. The study focuses on a worst-case scenario involving highly nonlinear behaviors such as plastic deformation and contact mechanics.
+This repository contains the implementation and dataset for AI-driven simulations of contact and plasticity phenomena in solid mechanics. The study focuses on a worst-case scenario involving highly nonlinear behaviors such as plastic deformation and contact mechanics. To model these highly nonlinear behaviors, we extend **MeshGraphNets (MGN)** to account for plasticity and energy dissipation due to permanent deformations. Previous works using MGN have been mostly limited to hyperelastic materials, making this an important step in capturing more complex material responses.
+
 
 ## Problem Definition
 
@@ -22,9 +23,6 @@ We simulate the impact of a cylindrical actuator on a rectangular plate, where p
   - Each simulation consists of 435 pseudo-time steps under quasi-static conditions.
   - Variability in boundary conditions and geometry (holes of different sizes and positions, variable thickness).
 
-## Approach
-
-To model these highly nonlinear behaviors, we extend **MeshGraphNets (MGN)** to account for plasticity and energy dissipation due to permanent deformations. Previous works using MGN have been mostly limited to hyperelastic materials, making this an important step in capturing more complex material responses.
 
 ### Dataset Split
 
@@ -34,4 +32,18 @@ To model these highly nonlinear behaviors, we extend **MeshGraphNets (MGN)** to 
 - **Out-of-distribution Test Set (Dextra)**: 25 trajectories with unseen geometries
 
 ## Repository Structure
+
+
+
+## Installation & Usage
+
+To get started with this repository, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+2. Install dependencies:
+   ```pip install -r requirements.txt```
+
 
