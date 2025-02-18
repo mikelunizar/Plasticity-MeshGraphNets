@@ -45,7 +45,7 @@ To get started with this repository, follow these steps:
    cd your-repo-name
 2. Install dependencies:
    ```sh
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 3. Train your model:
      ```sh
      python trian.py --mp_steps=15 --hidden=128 --batch_size=2
@@ -53,4 +53,12 @@ To get started with this repository, follow these steps:
      ```sh
      python test_performance.py
 
+## Cite us!
+@article{yourcitation2025,
+  title={ON THE FEASIBILITY OF FOUNDATIONAL MODELS FOR THE SIMULATION OF PHYSICAL PHENOMENA},
+  author={Your Name and Collaborators},
+  journal={Your Journal},
+  year={2025},
+  url={https://arxiv.org/pdf/2410.14645}
+}
 
