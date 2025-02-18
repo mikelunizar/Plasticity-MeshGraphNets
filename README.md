@@ -53,7 +53,8 @@ To get started with this repository, follow these steps:
      ```sh
      python test_performance.py
 
-## Cite us!
+## Citations
+```sh
 @article{yourcitation2025,
   title={ON THE FEASIBILITY OF FOUNDATIONAL MODELS FOR THE SIMULATION OF PHYSICAL PHENOMENA},
   author={Your Name and Collaborators},
