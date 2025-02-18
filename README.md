@@ -44,6 +44,13 @@ To get started with this repository, follow these steps:
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 2. Install dependencies:
-   ```pip install -r requirements.txt```
+   ```sh
+   pip install -r requirements.txt```
+3. Train your model:
+     ```sh
+     python trian.py --mp_steps=15 --hidden=128 --batch_size=2
+4. Evaluate model:
+     ```sh
+     python test_performance.py
 
 
