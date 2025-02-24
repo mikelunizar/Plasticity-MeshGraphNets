@@ -71,7 +71,7 @@ To get started with this repository, follow these steps:
 
 ## Visual Representation
 
-Below is a representative example ofr the developed solver
+Below is a representative example of the developed solver
 
 ![Simulation Setup](plots/collision.gif)
 
