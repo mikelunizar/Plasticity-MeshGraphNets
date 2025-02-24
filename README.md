@@ -79,11 +79,11 @@ Below is a representative example of the developed solver
 ## Citations
 
 ```sh
-@article{yourcitation2025,
+@article{MMIparraguirre24,
   title={ON THE FEASIBILITY OF FOUNDATIONAL MODELS FOR THE SIMULATION OF PHYSICAL PHENOMENA},
-  author={Your Name and Collaborators},
-  journal={Your Journal},
-  year={2025},
-  url={https://arxiv.org/pdf/2410.14645}
+  author={ATierz, MikelMIparraguirre},
+  journal={arxiv},
+  year={2024},
+  url={[https://arxiv.org/abs/2410.14645]}
 }
 ```
