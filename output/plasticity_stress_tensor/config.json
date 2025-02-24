@@ -1,0 +1,18 @@
+{
+    "batch_size": 8,
+    "epochs": 1000,
+    "num_tra": null,
+    "mp_steps": 15,
+    "layers": 2,
+    "hidden": 128,
+    "rollout_freq": 2,
+    "noise": 0.003,
+    "radius": 0.03,
+    "lr": 0.0001,
+    "stress": true,
+    "dataset_dir": "./data/dataset",
+    "run_name": "plasticity_stress_tensor",
+    "pretrain": null,
+    "reset_norm": false,
+    "finetune": false
+}
