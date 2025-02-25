@@ -1,3 +1,5 @@
+# see code: https://github.com/echowve/meshGraphNets_pytorch/blob/master/utils/normalization.py
+
 import torch
 import torch.nn as nn
 
