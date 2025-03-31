@@ -30,7 +30,9 @@ We simulate the impact of a cylindrical actuator on a rectangular plate, where p
 - **Training Set**: 80 trajectories  
 - **Validation Set**: 10 trajectories  
 - **Test Set**: 20 trajectories  
-- **Out-of-distribution Test Set (Dextra)**: 25 trajectories with unseen geometries  
+- **Out-of-distribution Test Set (Dextra)**: 25 trajectories with unseen geometries
+
+- Download dataset here: [https://drive.google.com/drive/folders/17H7zslWWRDyMA0QM_Bf4kY3WtP8fwlTZ?usp=share_link]
 
 ## Results
 
