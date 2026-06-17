@@ -77,6 +77,14 @@ Below is a representative example of the developed solver
 
 ![Simulation Setup](plots/collision.gif)
 
+## Licensing
+
+This project is licensed under the GNU Affero General Public License v3.0.
+
+Some files are derived from meshGraphNets_pytorch, licensed under
+the Apache License 2.0. Relevant notices are preserved in the NOTICE
+file and the Apache 2.0 license text is included in
+licenses/APACHE-2.0.txt.
 
 ## Citations
 
