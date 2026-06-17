@@ -1,3 +1,9 @@
+# Portions of this file are derived from meshGrpahNets_Pytorch
+# Copyright (c) Longxiang Jiang, Junjie Wang
+# Licensed under the Apache License, Version 2.0.
+#
+# Modifications Copyright (c) 2026 Mikel M Iparraguirre
+
 import torch_geometric
 import torch
 from torch_geometric.data import Data
